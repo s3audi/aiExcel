@@ -1,0 +1,5 @@
+{
+  "name": "Excel Veri Filtreleme Aracı",
+  "description": "Kullanıcıların bir Excel dosyasını yüklemesine ve içeriğini etkileşimli bir arayüzde dinamik olarak filtrelemesine olanak tanıyan bir web uygulaması.",
+  "requestFramePermissions": []
+}
